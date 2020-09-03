@@ -1,0 +1,5 @@
+C:\Source\Web\CDA\CustomerDataAnalysis\AjaxMVCReader\bin\Debug\AjaxMVCReader.dll
+C:\Source\Web\CDA\CustomerDataAnalysis\AjaxMVCReader\bin\Debug\AjaxMVCReader.pdb
+C:\Source\Web\CDA\CustomerDataAnalysis\AjaxMVCReader\obj\Debug\AjaxMVCReader.dll
+C:\Source\Web\CDA\CustomerDataAnalysis\AjaxMVCReader\obj\Debug\AjaxMVCReader.pdb
+C:\Source\Web\CDA\CustomerDataAnalysis\AjaxMVCReader\obj\Debug\AjaxMVCReader.csprojResolveAssemblyReference.cache
